@@ -4,6 +4,29 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/cursor-requests-limit/graphs/commit-activity)
 
+## 🤔 The Problem
+
+When using Cursor IDE, you have a monthly limit on API requests (e.g., 500 requests for premium models like GPT-4). It's easy to lose track of these requests and suddenly find yourself running out of quota when you need it most. Without proper monitoring:
+
+- You might unexpectedly hit your limit during critical development work
+- There's no easy way to track your daily/weekly usage patterns
+- You won't know when you're approaching your limit
+- You can't plan your usage effectively across the month
+
+<div align="center">
+  <img src="docs/assets/cursor_usage.png" alt="Cursor Usage Example" width="800px">
+  <p><em>Example of Cursor's usage limits interface</em></p>
+</div>
+
+## 💡 The Solution
+
+This Python application solves these problems by:
+
+- 🔍 Actively monitoring your Cursor API request usage
+- ⚠️ Sending timely notifications before you hit limits
+- 📊 Providing usage analytics and trends
+- 🎯 Helping you manage your quota more effectively
+
 📊 A Python application that helps you monitor and track your Cursor API request usage, providing timely notifications when you're approaching your limit.
 
 <div align="center">
@@ -138,11 +161,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- Project Link: [https://github.com/yourusername/cursor-requests-limit](https://github.com/yourusername/cursor-requests-limit)
-- Report Issues: [Issue Tracker](https://github.com/yourusername/cursor-requests-limit/issues)
+- Project Link: [https://github.com/yourusername/cursor-requests-limit](https://github.com/OsmanByrm/Cursor-Requests-Limit-Tracker)
+- Report Issues: Loading
+  
 
 ---
 
 <div align="center">
-  Made with ❤️ by [Your Name]
+  Made with by Osman Bayram :)
 </div>
