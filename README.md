@@ -13,10 +13,9 @@ When using Cursor IDE, you have a monthly limit on API requests (e.g., 500 reque
 - You won't know when you're approaching your limit
 - You can't plan your usage effectively across the month
 
-<div align="center">
-  <img src="docs/assets/cursor_usage.png" alt="Cursor Usage Example" width="800px">
-  <p><em>Example of Cursor's usage limits interface</em></p>
-</div>
+<img width="872" alt="Screenshot 2025-02-07 at 2 01 38 PM" src="https://github.com/user-attachments/assets/fd17c158-fd6d-4f97-a788-a55d784acf05" />
+
+
 
 ## 💡 The Solution
 
