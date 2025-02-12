@@ -5,6 +5,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/cursor-requests-limit/graphs/commit-activity)
 
 ## 🤔 The Problem
+<img width="842" alt="image" src="https://github.com/user-attachments/assets/415acda0-cbdf-4210-9bd8-312442f82b9f" />
+
 
 When using Cursor IDE, you have a monthly limit on API requests (e.g., 500 requests for premium models like GPT-4). It's easy to lose track of these requests and suddenly find yourself running out of quota when you need it most. Without proper monitoring:
 
